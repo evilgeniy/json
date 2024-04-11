@@ -1,0 +1,701 @@
+[
+  {
+    "name": "Hangover",
+    "description": "Здесь описание фильма",
+    "price": "8.00",
+    "category": "comedy",
+    "ages": {
+      "s": {
+        "age": "<14",
+        "add-price": "-2.00"
+      },
+      "m": {
+        "age": "18+",
+        "add-price": "0.00"
+      },
+      "l": {
+        "age": "60+",
+        "add-price": "-2.00"
+      }
+    },
+    "additives": [
+      {
+        "name": "Попкорн",
+        "add-price": "2.50"
+      },
+      {
+        "name": "Содовая",
+        "add-price": "1.50"
+      },
+      {
+        "name": "Начос",
+        "add-price": "3.50"
+      }
+    ]
+  },
+
+  {
+    "name": "Millers",
+    "description": "Здесь описание фильма",
+    "price": "8.00",
+    "category": "comedy",
+    "ages": {
+      "s": {
+        "age": "<14",
+        "add-price": "-2.00"
+      },
+      "m": {
+        "age": "18+",
+        "add-price": "0.00"
+      },
+      "l": {
+        "age": "60+",
+        "add-price": "-2.00"
+      }
+    },
+    "additives": [
+      {
+        "name": "Попкорн",
+        "add-price": "2.50"
+      },
+      {
+        "name": "Содовая",
+        "add-price": "1.50"
+      },
+      {
+        "name": "Начос",
+        "add-price": "3.50"
+      }
+    ]
+  },
+
+  {
+    "name": "Dictator",
+    "description": "Здесь описание фильма",
+    "price": "8.00",
+    "category": "comedy",
+    "ages": {
+      "s": {
+        "age": "<14",
+        "add-price": "-2.00"
+      },
+      "m": {
+        "age": "18+",
+        "add-price": "0.00"
+      },
+      "l": {
+        "age": "60+",
+        "add-price": "-2.00"
+      }
+    },
+    "additives": [
+      {
+        "name": "Попкорн",
+        "add-price": "2.50"
+      },
+      {
+        "name": "Содовая",
+        "add-price": "1.50"
+      },
+      {
+        "name": "Начос",
+        "add-price": "3.50"
+      }
+    ]
+  },
+
+  {
+    "name": "YesMan",
+    "description": "Здесь описание фильма",
+    "price": "8.00",
+    "category": "comedy",
+    "ages": {
+      "s": {
+        "age": "<14",
+        "add-price": "-2.00"
+      },
+      "m": {
+        "age": "18+",
+        "add-price": "0.00"
+      },
+      "l": {
+        "age": "60+",
+        "add-price": "-2.00"
+      }
+    },
+    "additives": [
+      {
+        "name": "Попкорн",
+        "add-price": "2.50"
+      },
+      {
+        "name": "Содовая",
+        "add-price": "1.50"
+      },
+      {
+        "name": "Начос",
+        "add-price": "3.50"
+      }
+    ]
+  },
+
+  {
+    "name": "MoneyTalks",
+    "description": "Здесь описание фильма",
+    "price": "8.00",
+    "category": "comedy",
+    "ages": {
+      "s": {
+        "age": "<14",
+        "add-price": "-2.00"
+      },
+      "m": {
+        "age": "18+",
+        "add-price": "0.00"
+      },
+      "l": {
+        "age": "60+",
+        "add-price": "-2.00"
+      }
+    },
+    "additives": [
+      {
+        "name": "Попкорн",
+        "add-price": "2.50"
+      },
+      {
+        "name": "Содовая",
+        "add-price": "1.50"
+      },
+      {
+        "name": "Начос",
+        "add-price": "3.50"
+      }
+    ]
+  },
+
+  {
+    "name": "Zohan",
+    "description": "Здесь описание фильма",
+    "price": "8.00",
+    "category": "comedy",
+    "ages": {
+      "s": {
+        "age": "<14",
+        "add-price": "-2.00"
+      },
+      "m": {
+        "age": "18+",
+        "add-price": "0.00"
+      },
+      "l": {
+        "age": "60+",
+        "add-price": "-2.00"
+      }
+    },
+    "additives": [
+      {
+        "name": "Попкорн",
+        "add-price": "2.50"
+      },
+      {
+        "name": "Содовая",
+        "add-price": "1.50"
+      },
+      {
+        "name": "Начос",
+        "add-price": "3.50"
+      }
+    ]
+  },
+
+  {
+    "name": "Animal",
+    "description": "Здесь описание фильма",
+    "price": "8.00",
+    "category": "comedy",
+    "ages": {
+      "s": {
+        "age": "<14",
+        "add-price": "-2.00"
+      },
+      "m": {
+        "age": "18+",
+        "add-price": "0.00"
+      },
+      "l": {
+        "age": "60+",
+        "add-price": "-2.00"
+      }
+    },
+    "additives": [
+      {
+        "name": "Попкорн",
+        "add-price": "2.50"
+      },
+      {
+        "name": "Содовая",
+        "add-price": "1.50"
+      },
+      {
+        "name": "Начос",
+        "add-price": "3.50"
+      }
+    ]
+  },
+
+  {
+    "name": "FallGuy",
+    "description": "Здесь описание фильма",
+    "price": "8.00",
+    "category": "comedy",
+    "ages": {
+      "s": {
+        "age": "<14",
+        "add-price": "-2.00"
+      },
+      "m": {
+        "age": "18+",
+        "add-price": "0.00"
+      },
+      "l": {
+        "age": "60+",
+        "add-price": "-2.00"
+      }
+    },
+    "additives": [
+      {
+        "name": "Попкорн",
+        "add-price": "2.50"
+      },
+      {
+        "name": "Содовая",
+        "add-price": "1.50"
+      },
+      {
+        "name": "Начос",
+        "add-price": "3.50"
+      }
+    ]
+  },
+
+  {
+    "name": "Island",
+    "description": "Здесь описание фильма",
+    "price": "8.00",
+    "category": "triller",
+    "ages": {
+      "s": {
+        "age": "<14",
+        "add-price": "-2.00"
+      },
+      "m": {
+        "age": "18+",
+        "add-price": "0.00"
+      },
+      "l": {
+        "age": "60+",
+        "add-price": "-2.00"
+      }
+    },
+    "additives": [
+      {
+        "name": "Попкорн",
+        "add-price": "2.50"
+      },
+      {
+        "name": "Содовая",
+        "add-price": "1.50"
+      },
+      {
+        "name": "Начос",
+        "add-price": "3.50"
+      }
+    ]
+  },
+
+  {
+    "name": "Things",
+    "description": "Здесь описание фильма",
+    "price": "8.00",
+    "category": "triller",
+    "ages": {
+      "s": {
+        "age": "<14",
+        "add-price": "-2.00"
+      },
+      "m": {
+        "age": "18+",
+        "add-price": "0.00"
+      },
+      "l": {
+        "age": "60+",
+        "add-price": "-2.00"
+      }
+    },
+    "additives": [
+      {
+        "name": "Попкорн",
+        "add-price": "2.50"
+      },
+      {
+        "name": "Содовая",
+        "add-price": "1.50"
+      },
+      {
+        "name": "Начос",
+        "add-price": "3.50"
+      }
+    ]
+  },
+
+  {
+    "name": "Silence",
+    "description": "Здесь описание фильма",
+    "price": "8.00",
+    "category": "triller",
+    "ages": {
+      "s": {
+        "age": "<14",
+        "add-price": "-2.00"
+      },
+      "m": {
+        "age": "18+",
+        "add-price": "0.00"
+      },
+      "l": {
+        "age": "60+",
+        "add-price": "-2.00"
+      }
+    },
+    "additives": [
+      {
+        "name": "Попкорн",
+        "add-price": "2.50"
+      },
+      {
+        "name": "Содовая",
+        "add-price": "1.50"
+      },
+      {
+        "name": "Начос",
+        "add-price": "3.50"
+      }
+    ]
+  },
+
+  {
+    "name": "Watcher",
+    "description": "Здесь описание фильма",
+    "price": "8.00",
+    "category": "triller",
+    "ages": {
+      "s": {
+        "age": "<14",
+        "add-price": "2.00"
+      },
+      "m": {
+        "age": "18+",
+        "add-price": "0.00"
+      },
+      "l": {
+        "age": "60+",
+        "add-price": "-2.00"
+      }
+    },
+    "additives": [
+      {
+        "name": "Попкорн",
+        "add-price": "2.50"
+      },
+      {
+        "name": "Содовая",
+        "add-price": "1.50"
+      },
+      {
+        "name": "Начос",
+        "add-price": "3.50"
+      }
+    ]
+  },
+
+  {
+    "name": "Luther",
+    "description": "Здесь описание фильма",
+    "price": "8.00",
+    "category": "drama",
+    "ages": {
+      "s": {
+        "age": "<14",
+        "add-price": "-2.00"
+      },
+      "m": {
+        "age": "18+",
+        "add-price": "0.00"
+      },
+      "l": {
+        "age": "60+",
+        "add-price": "-2.00"
+      }
+    },
+    "additives": [
+      {
+        "name": "Попкорн",
+        "add-price": "2.50"
+      },
+      {
+        "name": "Содовая",
+        "add-price": "1.50"
+      },
+      {
+        "name": "Начос",
+        "add-price": "3.50"
+      }
+    ]
+  },
+
+  {
+    "name": "Room",
+    "description": "Здесь описание фильма",
+    "price": "8.00",
+    "category": "drama",
+    "ages": {
+      "s": {
+        "age": "<14",
+        "add-price": "-2.00"
+      },
+      "m": {
+        "age": "18+",
+        "add-price": "0.00"
+      },
+      "l": {
+        "age": "60+",
+        "add-price": "-2.00"
+      }
+    },
+    "additives": [
+      {
+        "name": "Попкорн",
+        "add-price": "2.50"
+      },
+      {
+        "name": "Содовая",
+        "add-price": "1.50"
+      },
+      {
+        "name": "Начос",
+        "add-price": "3.50"
+      }
+    ]
+  },
+
+  {
+    "name": "Godfather",
+    "description": "Здесь описание фильма",
+    "price": "8.00",
+    "category": "drama",
+    "ages": {
+      "s": {
+        "age": "<14",
+        "add-price": "-2.00"
+      },
+      "m": {
+        "age": "18+",
+        "add-price": "0.00"
+      },
+      "l": {
+        "age": "60+",
+        "add-price": "-2.00"
+      }
+    },
+    "additives": [
+      {
+        "name": "Попкорн",
+        "add-price": "2.50"
+      },
+      {
+        "name": "Содовая",
+        "add-price": "1.50"
+      },
+      {
+        "name": "Начос",
+        "add-price": "3.50"
+      }
+    ]
+  },
+
+  {
+    "name": "Shawshank",
+    "description": "Здесь описание фильма",
+    "price": "8.00",
+    "category": "drama",
+    "ages": {
+      "s": {
+        "age": "<14",
+        "add-price": "-2.00"
+      },
+      "m": {
+        "age": "18+",
+        "add-price": "0.00"
+      },
+      "l": {
+        "age": "60+",
+        "add-price": "-2.00"
+      }
+    },
+    "additives": [
+      {
+        "name": "Попкорн",
+        "add-price": "2.50"
+      },
+      {
+        "name": "Содовая",
+        "add-price": "1.50"
+      },
+      {
+        "name": "Начос",
+        "add-price": "3.50"
+      }
+    ]
+  },
+
+  {
+    "name": "Bird",
+    "description": "Здесь описание фильма",
+    "price": "8.00",
+    "category": "drama",
+    "ages": {
+      "s": {
+        "age": "<14",
+        "add-price": "-2.00"
+      },
+      "m": {
+        "age": "18+",
+        "add-price": "0.00"
+      },
+      "l": {
+        "age": "60+",
+        "add-price": "-2.00"
+      }
+    },
+    "additives": [
+      {
+        "name": "Попкорн",
+        "add-price": "2.50"
+      },
+      {
+        "name": "Содовая",
+        "add-price": "1.50"
+      },
+      {
+        "name": "Начос",
+        "add-price": "3.50"
+      }
+    ]
+  },
+
+  {
+    "name": "Farewell",
+    "description": "Здесь описание фильма",
+    "price": "8.00",
+    "category": "drama",
+    "ages": {
+      "s": {
+        "age": "<14",
+        "add-price": "-2.00"
+      },
+      "m": {
+        "age": "18+",
+        "add-price": "0.00"
+      },
+      "l": {
+        "age": "60+",
+        "add-price": "-2.00"
+      }
+    },
+    "additives": [
+      {
+        "name": "Попкорн",
+        "add-price": "2.50"
+      },
+      {
+        "name": "Содовая",
+        "add-price": "1.50"
+      },
+      {
+        "name": "Начос",
+        "add-price": "3.50"
+      }
+    ]
+  },
+
+  {
+    "name": "Damaged",
+    "description": "Здесь описание фильма",
+    "price": "8.00",
+    "category": "drama",
+    "ages": {
+      "s": {
+        "age": "<14",
+        "add-price": "-2.00"
+      },
+      "m": {
+        "age": "18+",
+        "add-price": "0.00"
+      },
+      "l": {
+        "age": "60+",
+        "add-price": "-2.00"
+      }
+    },
+    "additives": [
+      {
+        "name": "Попкорн",
+        "add-price": "2.50"
+      },
+      {
+        "name": "Содовая",
+        "add-price": "1.50"
+      },
+      {
+        "name": "Начос",
+        "add-price": "3.50"
+      }
+    ]
+  },
+
+  {
+    "name": "Till",
+    "description": "Здесь описание фильма",
+    "price": "8.00",
+    "category": "drama",
+    "ages": {
+      "y": {
+        "age": "<14",
+        "add-price": "-2.00"
+      },
+      "a": {
+        "age": "18+",
+        "add-price": "0.00"
+      },
+      "o": {
+        "age": "60+",
+        "add-price": "-2.00"
+      }
+    },
+    "additives": [
+      {
+        "name": "Попкорн",
+        "add-price": "2.50"
+      },
+      {
+        "name": "Содовая",
+        "add-price": "1.50"
+      },
+      {
+        "name": "Начос",
+        "add-price": "3.50"
+      }
+    ]
+  }
+]
